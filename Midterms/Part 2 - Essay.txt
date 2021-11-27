@@ -1,0 +1,12 @@
+1. Differentiate the following CSS selectors
+
+The differences between the three of them is what to part of html is you want to style. The Combining selectors only select the 
+all elements that are on a said element. Second is the Class and ID selectors, ID selectors are used to identify one element in 
+the page and Class selectors are used to identify a group of elements. Lastly, Pseudo-Classes selector specifies a special state
+of the selected element
+
+2. Differentiate the following hyperlinks styling attributes
+
+The differences between the four of them is the state of the link. the a:link is used for changing the style of an unvisited link. 
+Second is the a:hover style, this will change the attributes of the link when you point your mouse over it. Third, a:visited style
+will change the attribute of a visited link. And last one is the a:active, it will change the style of the link when you clicked it
